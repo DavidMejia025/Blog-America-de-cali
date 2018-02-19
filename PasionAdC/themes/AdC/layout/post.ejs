@@ -1,0 +1,15 @@
+<h1> <%- titlecase (page.title) %></h1>
+<p> <%- page.date %> </p>
+<p> <%- page.author %> </p>
+
+<% if (page.author == "David") { %>
+ 
+<%- titlecase ("David Is the author of the post")%>
+<%- date(Date.now(), "YYYY/M/D")%>
+ <% } else {%>
+  David is Not the author of the post
+  <% }%>
+
+<%- page.content %>
+
+
