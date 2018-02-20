@@ -1,0 +1,29 @@
+---
+title: Feliz Cumpleaños AdC
+date: 2018-02-19 11:40:19
+tags: historia, gloria, 91 años
+---
+
+#América: 91 años de pasión de un pueblo</h1>
+Este martes, 13 de febrero, la institución escarlata festeja un nuevo aniversario de su fundación.
+{% asset_img america_90_anos.jpg %}
+### Hay fechas inolvidables: la del cumpleaños, Navidad, Año Nuevo y una que otra fiesta patria, pero con seguridad para los hinchas de América de Cali, el 13 de febrero es un día marcado en sus calendarios con rojo. Es el día del aniversario del cuadro escarlata. El club nació en el colegio Santa Librada, de Cali, en 1918; prosiguió con partidos que disputaban jóvenes trabajadores en la cancha de Galilea, pero su fundación oficial se remonta a un domingo 13 de febrero, hace 91 años.
+
+Su historia llena de satisfacciones, tristezas, alegrías, sonrisas y llanto tiene como gran emblema el 19 de diciembre de 1979. Ese día quedó en la memoria de los hinchas escarlatas pues consiguieron el primer título a nivel profesional, marcó el inicio de una brillante historia que hoy cuenta con trece estrellas. “Aquel 19”, como dice la canción que emociona a los hinchas escarlatas, será eterno en el legado rojo. (Lea también: El América que quiere el 'Polilla')
+
+Antes de ese año, la historia del América de Cali quedó enmarcada por la maldición ‘del garabato’, a la que durante 52 años se le culpó de no poder salir campeón del rentado nacional. Se dice que, en 1948, cuando el equipo se volvió profesional; gracias a las gestiones realizadas por el entonces presidente del equipo Humberto Salcedo Fernández; la idea no fue compartida por uno de los socios de la institución escarlata. Benjamín Urrea, mejor conocido como ‘Garabato, se opuso enérgicamente a la decisión de Salcedo, y profirió la conocida maldición: “Que lo vuelvan profesional, que hagan con el equipo lo que quieran... que, por mi Dios, América nunca será campeón”, fue su sentencia.
+
+
+Su maldición funcionó y América vivió tres décadas sin conocer el triunfo, hasta que en 1978 Garabato fue convencido para que revocara el maleficio que había lanzado contra el equipo años atrás. En una solemne misa, realizada en el Estadio Pascual Guerrero, Benjamín Urrea retiró lo dicho contra América y firmó un documento en el que, oficialmente, le ponía fin a la maldición. (Lea: Los partidos para el recuerdo de América)
+
+Durante esos 30 años, el equipo solo se había podido destacar en las campañas de 1960 y 1969. De resto, era una escuadra de mitad de tabla. En esos campeonatos fue subcampeón. Lo lograron de la mano de dos técnicos argentinos: Adolfo Pedernera y Angel Perucca. Pero en 1979 las directivas de los ‘Diablos Rojos’ a la cabeza de José Sanguiovanni, buscaron la forma de maximizar las posibilidades de que el equipo fuese campeón y fue así como convencieron al Doctor Gabriel Ochoa Uribe de tomar las riendas del equipo. El médico ya había dirigido a Millonarios y Santa Fe, equipos con los que consiguió seis títulos profesionales. (Pruebe que tan hincha es de América de Cali)
+
+En 1979 tomó el mando de los escarlatas y conformó una plantilla modesta, pero con algunos jugadores de jerarquía con los que ya había trabajado. De Aquel equipo resaltan los nombres de Luis Alegría Valencia, Aurelio José Pascuttini, Gabriel Chaparro, Luis Eduardo Reyes, Wilson Américo Quiñónez, Carlos Alfredo Gay, Juan Manuel Battaglia, Gerardo González Aquino, Víctor Lugo, Jorge Ramón Cáceres y Alfonso Cañón.
+
+El sufrimiento cesó y llegó la gloria en los años ochenta. Se convirtió en el único equipo en ganar cinco títulos del balompié nacional de manera consecutiva, de 1982 a 1986. Años en los que contó con figuras de mucho renombre: Julio César Falcioni, Ricardo Gareca, Gerardo González Aquino, Juan Manuel Battaglia, Willington Ortiz, Anthony de Ávila, César Cueto, Roberto Cabañas, entre otros. En dicha década la Copa Libertadores se escapó en tres oportunidades de sus manos escarlatas. En el 1985, contra Argentinos Juniors; en el 86, frente a River Plate, y en 1987, la más dolorosa, ante Peñarol, cuando a falta de siete segundos para terminar la final Diego Aguirre borró las sonrisas americanas y desató las lágrimas. Ese fue uno de los escasos objetivos que no alcanzó el entrenador Gabriel Ochoa Uribe.
+
+En la década del 90 América siguió levantando trofeos. La obsesión de la Libertadores es desbordante. Por eso, de la mano de Diego Edison Umaña, en 1996, el club vallecaucano intentó de nuevo levantarla. El rival en la final fue otra vez River Plate, cuadro argentino que se coronó campeón gracias a la tremenda actuación de Hernán Crespo y del equipazo que dirigía Ramón Díaz. Cuatro finales y cero títulos, pero la historia continental tiene a América como uno de sus máximos protagonistas.
+
+América tuvo una pequeña revancha internacional con el título de la Copa Merconorte en 1999. El nuevo siglo llegó plagado de alegrías para los rojos. Un tricampeonato entre 2000 y 2002, hacía creer que la escuadra seguiría dominando el fútbol nacional. No obstante, apareció una sequía de seis años. En 2008, bajo la dirección técnica de Umaña, llegó la estrella 13, la última gran alegría de los fanáticos de “La Mechita”.
+
+El club cayó en una crisis dirigencial y financiera que, como suele pasar, termina repercutiendo en lo deportivo, en lo que les interesa a los hinchas. A esos hinchas que el 17 de diciembre de 2011 vivieron su noche más triste, la del descenso, la de la incredulidad de que un enorme club jugaría en la segunda categoría. El trago amargo duró cinco años. Tras muchos intentos, Hernán Torres y su inteligencia calaron en un grupo de jugadores que querían ser los que devolvieran las cosas la normalidad. Así lo hicieron y retornaron al América a la primera división, el anterior 27 de noviembre. La “A” ahora cuenta con una de las instituciones más importantes del país, que este martes cumple 91 años de gloria, de pasión incontrolable.  </h3>

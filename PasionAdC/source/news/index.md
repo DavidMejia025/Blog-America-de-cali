@@ -2,6 +2,17 @@
 title: news
 date: 2018-02-02 18:22:11
 ---
+# Miles de Hinchas del América de Cali viajaron Argentina
+
+
+Y parece que queda mas que demostrado que AMÉRICA DE CALI cuenta con una de las hinchadas mas grandes del continente Sudamericano, y no es para menos el rojo escarlata de la ciudad de Cali ha vuelto al continente y sus hinchas lo han hecho notar.
+
+Miles de hinchas se han traslado vía terrestre, otros de mochileros como se dice en mi País “A DEDO!  y otros han tomado avión, pero en su cabeza solo esta LLEGAR! no importa los medios el aguante siempre primara en su corazón.
+
+El jueves 15 de febrero, 07:30 Pm hora colombiana el América de Cali se enfrentara al joven equipo de Defensa y Justicia y la institución argentina a colocado 3.000 entradas a disposición para los simpatizantes del escarlatas (tendrán una tribuna entera) Las mismas se venderán exclusivamente  el día jueves 15/2 en el estadio Norberto “Tito” Tomaghello” de 16:00 a 21.30hs. hora argentina y tendrán un valor de 600. que en pesos colombianos es aproximadamente 90.000.
+
+ <img src="./index/viaje.jpg" alt="">	
+
 # “Era bueno que el equipo diera esa imagen”: ‘Polilla’ Da Silva
 
 
@@ -19,7 +30,7 @@ América, con 9 jugadores, se impuso a Cali en juego de pretemporada
 
 América y Deportivo Cali midieron fuerzas en el estadio El Campín en juego amistoso. El conjunto ‘Escarlata’ superó 2-0 a su rival de patio con goles de Carmelo Valencia y Cristian Dájome.
 
-##FICHA TECNICA:
+## FICHA TECNICA:
 
 América: Carlos Bejarano; Juan Camilo Angulo, Diego Herner, Anderson Zapata, Iván Vélez; Elkin Blanco, Jonny Mosquera (Gustavo Carvajal.), Alejandro Bernal, Kevin Ramírez (Arnol Palacios), Cristian Dájome (Yamilson Rivera) y Carmelo Valencia (Jhon Meneses).
 Entrenador: Jorge Da Silva.
@@ -34,7 +45,7 @@ Expulsados: Alejandro Bernal (América). Carlos Bejarano (América). Abel Aguila
 
 Estadio: El Campín (Bogotá).
 
-#Yamilson Rivera nuevo refuerzo escarlata
+# Yamilson Rivera nuevo refuerzo escarlata
 
 Este miércoles podría quedar definida la vinculación del delantero  tumaqueño Yámilson Rivera, quien retornaría al equipo tras su último paso entre 2012 y 2014 cuando los rojos disputaron el torneo de la B.
 
@@ -72,4 +83,8 @@ Los directivos rojos trabajan para la consecución de dos refuerzos más con lo 
 
 América viajará el próximo domingo 14 de enero para afrontar el torneo Fox Sports donde se medirá en el cuadrangular amistoso con Deportivo Cali, Millonarios y Santa Fe en el campin de Bogotá.
  
-FUENTE: DIARIO EL PAIS DE CALI 
+FUENTE: DIARIO EL PAIS DE CALI Miles de Hinchas del América de Cali viajaron Argentina
+
+
+ 
+ 		 	 

@@ -18,7 +18,7 @@ body {
 	font-weight: 400;
 	font-family: Arial, Helvetica, Microsoft Yahei;
 	line-height: 1.8;
-	background: #fff;
+	background: #990000;
 	}
 
 /* Headings */
@@ -258,6 +258,7 @@ object {
 	}
 .site-branding {
 	float: left;
+	background-image:url("./images/AdC.png")
 	}
 .site-title {
 	margin: 0;
@@ -328,6 +329,8 @@ object {
 #main-navigation {
 	clear: both;
 	padding: 20px 0 0;
+	margin-right:0;
+	width:520px;
 	}
 #main-navigation .sf-menu {
 	background: #060608;
@@ -469,8 +472,12 @@ object {
 /* LAYOUT
 ----------------------------------------------- */
 .container {
-	width: 980px;
+	width: 1600px;
 	padding: 0px;
+	}
+	.ImageHead{
+		padding-right: 1200px;
+		padding-bottom: 50px;
 	}
 .content-area {
 	width: 100%;

@@ -1,11 +1,11 @@
 <% if (site.posts.length){ %>
   <div class="widget_athemes_tabs">
     <ul id="widget-tab" class="clearfix widget-tab-nav">
-      <li class="active"><a><%= __('recent_posts') %></a></li>
+      <li class="active"><a>ULTIMAS ENTRADAS</li>
     </ul>
     <div class="widget">
       <ul>
-        <% site.posts.sort('date', -1).limit(6).each(function(post){ %>
+        <% site.posts.sort('date', -1).limit(4).each(function(post){ %>
           <li class="clearfix">
 
             <% if (post.photos != ""){ %>

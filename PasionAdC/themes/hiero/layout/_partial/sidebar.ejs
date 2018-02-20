@@ -1,5 +1,10 @@
 <aside id="sidebar"<% if (theme.sidebar === 'bottom'){ %> class="outer"<% } %>>
   <% theme.widgets.forEach(function(widget){ %>
-    <%- partial('_widget/' + widget) %>
+
+    
   <% }) %>
+  <%- partial('_widget/' + theme.widgets[1]) %>
+  <%- partial('_widget/' + theme.widgets[2]) %>
+  <%- partial('_widget/' + theme.widgets[4]) %>
+ 
 </aside>
